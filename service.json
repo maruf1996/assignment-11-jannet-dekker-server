@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Woman's Health",
+    "price": "5000",
+    "img": "https://i.ibb.co/6XPnqVN/service-1.png",
+    "description": "Regular health exams and tests can help find problems before they start. They also can help find problems early, when your chances for treatment are better. As a woman, you need some special exams and screenings. During your checkup, your health care provider will usually do: A pelvic exam – an exam to check if internal female organs are normal by feeling their shape and size. A Pap test – a test to check for cancer of the cervix, the opening to a woman’s uterus. Cells from the cervix are examined under a microscope. A clinical breast exam – to check for breast cancer by feeling and looking at your breasts.Your health care provider may also recommend other tests, including a mammogram or a test for HPV.     Our general practitionars offer the full range of basic woman's health assessment and treatments. In case required patients are referred to a hospital based specialist.  Please check at every referral, whether the costs are covered by your insurance company.  "
+  },
+  {
+    "name": "Chronic Disease Management",
+    "price": "7000",
+    "img": "https://i.ibb.co/hYRcKm5/service-2.jpg",
+    "description": "Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is called diastolic pressure. Your blood pressure reading uses these two numbers. Usually the systolic number comes before or above the diastolic number. A reading of 119/79 or lower is normal blood pressure 140/90 or higher is high blood pressure Between 120 and 139 for the top number, or between 80 and 89 for the bottom number is called prehypertension. Prehypertension means you may end up with high blood pressure, unless you take steps to prevent it. High blood pressure usually has no symptoms, but it can cause serious problems such as stroke, heart failure, heart attack and kidney failure. You can control high blood pressure through healthy lifestyle habits such as exercise and the DASH diet and taking medicines, if needed. High cholesterol, chronic heart disease, chronic kidney disease, chronic liver disease, diabetes, cancer, as well as other chronic diseases, need special attention and treatment. Our doctors and nurses will help you manage your disease, where needed together with your specialist, to lower the chance for complications."
+  },
+  {
+    "name": "Diabetes Risk Assessment",
+    "price": "6000",
+    "img": "https://i.ibb.co/XLGPNHM/service-3.png",
+    "description": "Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With type 1 diabetes, your body does not make insulin. With type 2 diabetes, the more common type, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood. You can also have prediabetes. This means that your blood sugar is higher than normal but not high enough to be called diabetes. Having prediabetes puts you at a higher risk of getting type 2 diabetes. Over time, having too much glucose in your blood can cause serious problems. It can damage your eyes, kidneys, and nerves. Diabetes can also cause heart disease, stroke and even the need to remove a limb. Pregnant women can also get diabetes, called gestational diabetes. Blood tests can show if you have diabetes. One type of test, the A1C, can also check on how you are managing your diabetes. Exercise, weight control and sticking to your meal plan can help control your diabetes. You should also monitor your blood glucose level and take medicine if prescribed."
+  },
+  {
+    "name": "Asthma Management",
+    "price": "4000",
+    "img": "https://i.ibb.co/GJVrvCn/service-4.png",
+    "description": "Basic Asthma care is offered in our clinic by our general practitioners and our nurse. All asthma medication is prescribed by our doctors We work close together with the local hospitals, and patients are referred in case needed Please check at every referral, whether the costs are covered by your insurance company. "
+  },
+  {
+    "name": "Travel Medicine",
+    "price": "4500",
+    "img": "https://i.ibb.co/N9sbH91/service-5.jpg",
+    "description": "We offer travel advice and vaccination, including vaccination certificates. We also offer Yellow Fever vaccination and Covit Certificate. Please book your appointment at least 1 Month before traveling. Make sure you have your vaccination history handy. Make sure you have your current medical records and medication handy"
+  },
+  {
+    "name": "Healthcare Assessments",
+    "price": "4600",
+    "img": "https://i.ibb.co/Q9WznSJ/service-6.png",
+    "description": "We offer the full range of healthcare assessments and medicals. All blood tests are done in our laboratory. X Rays are ordered in the local hospital Healthcare assessments are not always covered by your Dutch health insurance. Please check at every referral, whether the costs are covered by your insurance company."
+  }
+]
